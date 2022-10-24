@@ -15,15 +15,16 @@ logo=("""{B}
 **************************************************
 {G}Remember >>  •••Allah Always Watching You•••
 {B}**************************************************
-{C} ____We Work To Sarve You a Clean Cyber Space____
-{Y}   ____Well Come To Noob-Hacker's World____
+{C} ____You can't explain me properly____
+{Y}         ____Like INCEPTION____
 {B}**************************************************
-{ascii}
+
 {B}**************************************************
-{G}Author   >>  Tahsan-Nayem [Noob-Hacker71]
-{Y}Facebook >>  https://facebook.com/Noob.Hacker71
-{C}Github   >>  https://github.com/Noob-Hacker71
-  yufdtyhjji- hufgh
+{G}Admin    >>  Md.Rabbi [INCEPTION]
+{Y}Facebook >>  https://facebook.com/iam.inception
+
+{C}Github   >>  https://github.com/INC3PTION
+   Tool V.  >>  0.2(DEBUG)
 {B}**************************************************
 """.format(ascii=design,B=B,C=C,G=G,Y=Y))
 
