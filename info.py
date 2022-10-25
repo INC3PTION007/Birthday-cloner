@@ -23,13 +23,13 @@ logo=("""{B}
 {G}      •••Allah Always Watching Me•••
 {B}**************************************************
 {C} ____You can't explain me properly____
-{Y}    ____Because iam INCEPTION____
+{Y}   ____My Heart is still locked____
 {B}**************************************************
 {ascii}
 {B}**************************************************
 {G}Admin    >>  Md.Rabbi [INCEPTION]
-{Y}Facebook >>  https://facebook.com/iam.inception
-{C}Github   >>  https://github.com/INC3PTION
+{Y}Facebook >>  https://facebook.com/iam.inc3ption
+{C}Github   >>  https://github.com/INC3-PTION
 Tool V.  >>  0.2(DEBUG)
 {B}**************************************************
 """.format(ascii=design,B=B,C=C,G=G,Y=Y))
