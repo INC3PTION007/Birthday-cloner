@@ -8,17 +8,17 @@ C="\033[1;36m"
 
 design="""
 
-  INCEPTION
+  INC3PTION
                                             
 """.format(P=P,C=C,G=G,Y=Y)                                             
 
 
 logo=("""{B}
 **************************************************
-{G}        •••Allah Always Watching Me•••
+{G}      •••Allah Always Watching Me•••
 {B}**************************************************
 {C} ____You can't explain me properly____
-{Y}         ____Like INCEPTION____
+{Y}    ____Because iam INCEPTION____
 {B}**************************************************
 {ascii}
 {B}**************************************************
